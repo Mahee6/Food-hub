@@ -1,0 +1,47 @@
+.placeorder-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 25px;
+  background-color: #fefefe;
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.placeorder-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.placeorder-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.placeorder-form input,
+.placeorder-form textarea,
+.placeorder-form select {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  resize: vertical;
+}
+
+.placeorder-form textarea {
+  min-height: 80px;
+}
+
+.placeorder-form button {
+  padding: 12px;
+  background-color: #ff6600;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.placeorder-form button:hover {
+  background-color: #e65c00;
+}
