@@ -12,7 +12,7 @@ Key Features:
 ☁️ Real-Time Database Integration: Stores user details, delivery information, and order data in Firebase Firestore for smooth data handling.
 
 🛒 Cart & Checkout Flow: Dynamic cart management with quantity updates and checkout process.
-<img src="https://media.licdn.com/dms/image/v2/D562DAQHahcm2s9q7mQ/profile-treasury-image-shrink_800_800/B56Zf40i8iGUAc-/0/1752226216581?e=1752836400&v=beta&t=WSiAxU4ub5K6cSHh8NP9fUqgvEVcDZvPsftPp26TW7U" alt="" width="500" height="600">
+<img src="[https://media.licdn.com/dms/image/v2/D562DAQHahcm2s9q7mQ/profile-treasury-image-shrink_800_800/B56Zf40i8iGUAc-/0/1752226216581?e=1752836400&v=beta&t=WSiAxU4ub5K6cSHh8NP9fUqgvEVcDZvPsftPp26TW7U](https://media.licdn.com/dms/image/v2/D562DAQHahcm2s9q7mQ/profile-treasury-image-shrink_800_800/B56Zf40i8iGUAc-/0/1752226216581?e=1752836400&v=beta&t=WSiAxU4ub5K6cSHh8NP9fUqgvEVcDZvPsftPp26TW7U)" alt="" width="500" height="600">
 <img src="https://media.licdn.com/dms/image/v2/D562DAQFT_hg--d4Tow/profile-treasury-image-shrink_800_800/B56Zf40nkbHUAY-/0/1752226234943?e=1752836400&v=beta&t=9ZNLrKnXXPgVp-N_zsiO4N5DfFbpAUPflOnSFZuBcZY" alt="Girl in a jacket" width="500" height="600">
 <img src="https://media.licdn.com/dms/image/v2/D562DAQHK4_IVlWR28w/profile-treasury-image-shrink_800_800/B56Zf40r9FGUAY-/0/1752226252713?e=1752836400&v=beta&t=SU4GA9Z_O9pBgz4IYRCfydJXGy5FraKibvuw082HkFk" alt="" width="500" height="600">
 <img src="https://media.licdn.com/dms/image/v2/D562DAQEvivjmSqSbPg/profile-treasury-image-shrink_800_800/B56Zf40vRWHoAY-/0/1752226266551?e=1752836400&v=beta&t=lFKOito_MLKisslOwSyW3vzF9d8UuMtDLWljD_q3tkg" alt="" width="500" height="600">
